@@ -44,20 +44,25 @@ Users can create routes, explore routes from other riders, save favorites and ra
 ---
 
 # Project Structure
-src/main/java/com/motoroute
-│ ├── controller
-│ ├── service
-│ ├── repository
-│ ├── model
-│ ├── dto
-│ ├── mapper
-│ └── config
+
+```
+motoroute
+│
+├── src/main/java/com/motoroute
+│   ├── controller
+│   ├── service
+│   ├── repository
+│   ├── model
+│   ├── dto
+│   ├── mapper
+│   └── config
 │
 ├── src/main/resources
-│ ├── db/migration
-│ └── application.yml
+│   ├── db/migration
+│   └── application.yml
 │
 └── docker
+```
 
 ---
 
